@@ -7,7 +7,7 @@
 Showcase for promises.
 
 > Run code-snippets in web-browser console <br>
-> Example:
+> Example: <br>
 > <img src="./docs/img/console.png" alt="console" width="600">
 
 ## Useful references
